@@ -3,9 +3,11 @@
 Let's Connect:
 <p>
   <a href="https://www.linkedin.com/in/peter-akwa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+  <a href="https://twitter.com/_petrusdev"><img src="https://img.shields.io/badge/X-%23FFFFFF?style=flat&logo=x&logoColor=%23FFFFFF&label=twiter&color=%23FFFFFF" height=23></a>
   <a href="mailto:akwapeter1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
   <a href="http://wa.me//2348163378852"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
   <a href="https://www.facebook.com/akwapetrus"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
+  <a href="https://stackoverflow.com/users/8519058/peter-akwa"><img src="https://img.shields.io/badge/stackoverflow-%23FFFFFF?style=flat&logo=stackoverflow&logoColor=%23964B00&color=%23FFFFFF" height=23></a>
 </p>
 
 <!--
