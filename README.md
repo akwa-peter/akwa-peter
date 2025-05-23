@@ -14,7 +14,7 @@ Let's Connect👇
 ![mobile-app](https://github.com/akwa-peter/akwa-peter/assets/22136166/0ad59ddd-2483-4f86-ba57-653cf891fb9a)
 
 <p>
-  I am a Mobile App Developer with 6+ years of experience building and maintaining high-performance and user-friendly applications. I am that developer who cares about
+  I am a Mobile App Developer with 8 years of experience building and maintaining high-performance, user-friendly applications. I am that developer who cares about
   <ul>
     <li>🟢 User Experience/Feedback</li>
     <li>🟢 App Performance</li>
@@ -26,7 +26,7 @@ Let's Connect👇
 <p>
   As a Mobile App Developer, I offer
   <ul>
-    <li>🔥 Over 6 years of experience working on mobile applications from scratch to launch</li>
+    <li>🔥 Over 8 years of experience working on mobile applications from scratch to launch</li>
     <li>🔥 Ability to work as a single developer and/or with a team of developers</li>
     <li>🔥 Working with and integrating third-party APIs and SDK</li>
     <li>🔥 Debugging skills and performance optimisation</li>
@@ -39,8 +39,8 @@ Let's Connect👇
   MY SKILLS
   <ul>
     <li>🚉 Platforms: Android, iOS, Desktop, Web</li>
-    <li>👩‍💻 Languages & Frameworks: Java, Dart, SQL, Flutter</li>
-    <li>🆚 Version Control System: Git, Github, Bitbucket</li>
+    <li>👩‍💻 Languages & Frameworks: Java, Dart, SQL, Flutter, Swift, Kotlin</li>
+    <li>🆚 Version Control System: Microsft Azure, Git, Github, Bitbucket</li>
     <li>📚 Other Libraries & Platforms: Android SDK, Facebook SDK, Firebase, Android Libraries</li>
   </ul>
 </p>
